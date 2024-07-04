@@ -16,6 +16,7 @@ This project is a Tkinter-based application that allows users to visualize and c
     pip install matplotlib
     pip install openpyxl
     pip install numpy
+    pip install os
     ```
 
     Make sure to run these commands in your terminal or command prompt within the project directory.
